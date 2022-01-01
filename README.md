@@ -1,3 +1,3 @@
 # Weather Electron App
 
-Built using [Electron](https://www.electronjs.org/).
+Built using [Electron](https://www.electronjs.org/)
